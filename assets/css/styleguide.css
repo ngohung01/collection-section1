@@ -1,0 +1,10 @@
+:root {
+  --secondarybackground-1: #fffdf4;
+  --primaryaccent-1: rgba(55, 70, 57, 1);
+  --primaryaccent-2: rgba(65, 79, 66, 1);
+  --secondarycolor-1: rgba(63, 81, 75, 1);
+  --secondarycolor-2: rgba(78, 92, 88, 1);
+  --secondarysubtitle: rgba(114, 119, 108, 1);
+  --line: rgba(236, 237, 236, 1);
+  --secondarybackground-2: rgba(230, 234, 213, 1);
+}
