@@ -34,7 +34,7 @@
 }
 
 .featured-collection .p {
-  width: 519px;
+  max-width: 519px;
   font-weight: 400;
   font-size: 1.9rem;
   line-height: 2.7rem;
@@ -183,6 +183,7 @@
   .products {
     flex-wrap: wrap;
     justify-content: space-between;
+    padding-bottom: 23px;
   }
 }
 
